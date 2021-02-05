@@ -8,3 +8,4 @@ github
 udemy
 aws
 pyxis
+cybersecurity
